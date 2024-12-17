@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-style: italic;
+}
+section 
+.container {
+    position: relative;
+    
+    color: white;
+    
+    font-size: xx-large;
+    font-weight: bold;
+  }
+ img{
+    background:linear-gradient(rgba(0,0,0,0.75));
+ }
+  .centered {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translate(0%, 500%);
+  }
+  .sec1{
+    text-align: center;
+  }
